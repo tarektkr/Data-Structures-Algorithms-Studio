@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>GraphDWViewer</RootNamespace>
+    <AssemblyName>GraphDWViewer</AssemblyName>
+    <Version>1.0.0</Version>
+    <Authors>Robert Lafore / Ported to C# .NET 8.0</Authors>
+    <Description>Directed, Weighted Graph (Dijkstra Shortest Path) Applet ported from Robert Lafore's Data Structures and Algorithms in Java (Chapter 14).</Description>
+  </PropertyGroup>
+
+</Project>

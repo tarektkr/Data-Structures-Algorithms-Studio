@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>BubbleSortViewer</RootNamespace>
+    <AssemblyName>BubbleSortViewer</AssemblyName>
+    <Description>عارض ومحاكي أبليت الترتيب الفقاعي لـ روبرت لافور بلغة C# (Bubble Sort)</Description>
+  </PropertyGroup>
+
+</Project>

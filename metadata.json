@@ -1,0 +1,6 @@
+{
+  "name": "عارض ومحاكي الأبليت بلغة C# | Unordered Array C# Viewer",
+  "description": "تطبيق متكامل وتفاعلي لعرض ومحاكاة أبليت المصفوفة غير المرتبة (Unordered Array Applet - Robert Lafore) مع كود C# Windows Forms كامل قابل للتحميل والتشغيل في Visual Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+# Node.js / React
+node_modules/
+dist/
+npm-debug.log*
+
+# C# / .NET
+.vs/
+bin/
+obj/
+*.user
+*.slnx
+
+# System & Env
+.env
+.DS_Store
+Thumbs.db

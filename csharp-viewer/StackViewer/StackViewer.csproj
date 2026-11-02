@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>StackViewer</RootNamespace>
+    <AssemblyName>StackViewer</AssemblyName>
+    <Description>عارض ومحاكي أبليت المكدس (Stack - LIFO) لـ روبرت لافور بلغة C# (Windows Forms)</Description>
+  </PropertyGroup>
+
+</Project>

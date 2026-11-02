@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>RobertLafore_DSA_Studio.Program</StartupObject>
+    <RootNamespace>RobertLafore_DSA_Studio</RootNamespace>
+    <AssemblyName>RobertLafore_DSA_Studio</AssemblyName>
+    <ApplicationTitle>روبرت لافور - ستوديو الخوارزميات وهياكل البيانات | Robert Lafore DSA Studio</ApplicationTitle>
+    <Description>المشروع الشامل والموحد لجميع بريمجات روبرت لافور التفاعلية لهياكل البيانات والخوارزميات بلغة C# و .NET 8.0</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="UnorderedArrayViewer\UnorderedArrayViewer.csproj" />
+    <ProjectReference Include="OrderedArrayViewer\OrderedArrayViewer.csproj" />
+    <ProjectReference Include="BubbleSortViewer\BubbleSortViewer.csproj" />
+    <ProjectReference Include="SelectionSortViewer\SelectionSortViewer.csproj" />
+    <ProjectReference Include="InsertionSortViewer\InsertionSortViewer.csproj" />
+    <ProjectReference Include="StackViewer\StackViewer.csproj" />
+    <ProjectReference Include="QueueViewer\QueueViewer.csproj" />
+    <ProjectReference Include="PriorityQueueViewer\PriorityQueueViewer.csproj" />
+    <ProjectReference Include="LinkListViewer\LinkListViewer.csproj" />
+    <ProjectReference Include="TowersViewer\TowersViewer.csproj" />
+    <ProjectReference Include="MergeSortViewer\MergeSortViewer.csproj" />
+    <ProjectReference Include="QuickSort1Viewer\QuickSort1Viewer.csproj" />
+    <ProjectReference Include="QuickSort2Viewer\QuickSort2Viewer.csproj" />
+    <ProjectReference Include="TreeViewer\TreeViewer.csproj" />
+    <ProjectReference Include="HashViewer\HashViewer.csproj" />
+    <ProjectReference Include="HashChainViewer\HashChainViewer.csproj" />
+    <ProjectReference Include="GraphViewer\GraphViewer.csproj" />
+    <ProjectReference Include="GraphDWViewer\GraphDWViewer.csproj" />
+    <ProjectReference Include="GraphWViewer\GraphWViewer.csproj" />
+  </ItemGroup>
+
+</Project>

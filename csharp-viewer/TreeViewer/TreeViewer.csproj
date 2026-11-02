@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>TreeViewer</RootNamespace>
+    <AssemblyName>TreeViewer</AssemblyName>
+    <ApplicationTitle>Robert Lafore Binary Tree Workshop - Chapter 9</ApplicationTitle>
+  </PropertyGroup>
+
+</Project>

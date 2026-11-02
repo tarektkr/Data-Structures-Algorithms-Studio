@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>GraphWViewer</RootNamespace>
+    <AssemblyName>GraphWViewer</AssemblyName>
+    <Description>Weighted, Undirected Graph (MSTW - Minimum Spanning Tree) - Robert Lafore Data Structures and Algorithms in Java (Chapter 14)</Description>
+  </PropertyGroup>
+
+</Project>

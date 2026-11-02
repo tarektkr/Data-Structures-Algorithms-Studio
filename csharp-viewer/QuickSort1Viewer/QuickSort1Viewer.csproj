@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>QuickSort1Viewer</RootNamespace>
+    <AssemblyName>QuickSort1Viewer</AssemblyName>
+    <ApplicationTitle>Robert Lafore QuickSort1 Workshop</ApplicationTitle>
+  </PropertyGroup>
+
+</Project>

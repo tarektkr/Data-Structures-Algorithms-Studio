@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>HashViewer</RootNamespace>
+    <AssemblyName>HashViewer</AssemblyName>
+    <ApplicationTitle>Robert Lafore Linear-Probe Hash Table Workshop - Chapter 11</ApplicationTitle>
+  </PropertyGroup>
+
+</Project>

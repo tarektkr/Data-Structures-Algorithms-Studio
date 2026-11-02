@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>MergeSortViewer</RootNamespace>
+    <AssemblyName>MergeSortViewer</AssemblyName>
+    <ApplicationTitle>Robert Lafore Merge Sort Workshop - Divide and Conquer</ApplicationTitle>
+  </PropertyGroup>
+
+</Project>
